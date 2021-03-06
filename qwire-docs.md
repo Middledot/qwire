@@ -5,6 +5,7 @@
 Commands are named without the prefix
 
 ## Music Commands
+Some commands to play music on the bot with a YouTube, Soundcloud, Bandacamp or Viemo link or make the bot search for a song with a query.
 | Command  | Aliases | Description |
 | ------------- | ------------- | ------------- |
 | **join**      | None | Makes Qwire join the voice channel you're in. |
@@ -23,12 +24,13 @@ Commands are named without the prefix
 | **current** | now | Shows the song currently playing. |
 | **ytsearch \<query>** | youtubesearch | Shows the first 5 results of a search on YouTube. |
 | **scsearch \<query>** | soundcloudsearch | Shows the first 5 results of a search on YouTube. |
-| **queue** | None | Displays everything in the queue |
+| **queue** | None | Displays everything in the queue. |
 | **queue add** | None | Add a song to the end of the queue. |
 | **queue remove \<index>** | None | Removes song of the index position in the queue excluding the current song. |
 | **queue insert <br> \<index> \<url or query>** | None | Insert a song to the index position of the queue excluding the current song. |
 
 ## Moderation Commands
+These are for helping moderate on your server.
 | Command  | Aliases | Required Permissions | Description |
 | ------------- | ------------- | ---------- | ------------- |
 | **whois \<user>** | uinfo | None | Gets information on someone. |
@@ -48,8 +50,7 @@ Commands are named without the prefix
 | **unmute \<member> [reason]** | None | Manage Roles | Unmute a person, reason will appear in Audit Logs. |
 
 ## Join and Leave Settings
-These are commands for settings up join and leave commands.<br>
-These commands can only be used by Administrators.
+These commands are for setting up and configuring welcome and leave messages on your server. Only admins can edit these settings.
 ### Join Settings
 | Command | Description |
 | -------- | -------- |
