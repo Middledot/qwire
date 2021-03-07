@@ -23,7 +23,7 @@ Some commands to play music on the bot with a YouTube, Soundcloud, Bandacamp or 
 | **seek \<position>** | None | Using key letters to indicate time such as h, s and m, <br> go to that position of the playing audio. |
 | **current** | now | Shows the song currently playing. |
 | **ytsearch \<query>** | youtubesearch | Shows the first 5 results of a search on YouTube. |
-| **scsearch \<query>** | soundcloudsearch | Shows the first 5 results of a search on YouTube. |
+| **scsearch \<query>** | soundcloudsearch | Shows the first 5 results of a search on SoundCloud. |
 | **queue** | None | Displays everything in the queue. |
 | **queue add** | None | Add a song to the end of the queue. |
 | **queue remove \<index>** | None | Removes song of the index position in the queue excluding the current song. |
