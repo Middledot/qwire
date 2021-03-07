@@ -138,4 +138,4 @@ Some commands for non server-management stuff.
 | **achievement [the achievement]** | Make a minecraft achievement. |
 | **wasted [member]** | Wasted |
 | **gay [user]** | \*Gay Pride Music Starts Playing* |
-| **drip [user]** | Gottem|
+| **drip [user]** | Gottem |
