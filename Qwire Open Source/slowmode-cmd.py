@@ -4,10 +4,10 @@ from discord.ext import commands
 
 client = commands.Bot(command_prefix="?")
 
-@commands.command()
+@client.command()
 @commands.bot_has_permissions(manage_channels=True)
 @commands.has_permissions(manage_channels=True)
-async def slowmode(self, ctx, channel:typing.Optional[discord.TextChannel], *, value:str=None):
+async def slowmode(ctx, channel:typing.Optional[discord.TextChannel], *, value:str=None):
     channel = channel or ctx.channel
     if value == None:
         return await ctx.send("No value has been given.")
