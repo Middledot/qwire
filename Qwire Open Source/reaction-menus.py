@@ -6,7 +6,7 @@ client = commands.Bot(command_prefix='?')
 
 @client.command()
 @commands.bot_has_permissions(add_reactions=True)
-async def menus(ctx):
+async def display_menu(ctx):
     # Just edit the list of embeds for it to work
     listt = [discord.Embed(description="Page 1"), discord.Embed(description="Page 2"), discord.Embed(description="Page 3"), discord.Embed(description="Page 4")]
     current = 0
