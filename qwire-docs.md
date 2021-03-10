@@ -135,7 +135,7 @@ Some commands for non server-management stuff.
 | **wanted [user]** | Create a wanted poster for sombody. |
 | **die [user]** | "Guess I'll Die" |
 | **slap \<user>** | Slap em' |
-| **achievement [the achievement]** | Make a minecraft achievement. |
+| **achievement \<the achievement>** | Make a minecraft achievement. |
 | **wasted [member]** | Wasted |
-| **gay [user]** | \*Gay Pride Music Starts Playing* |
-| **drip [user]** | Gottem |
+| **gay [member]** | \*Gay Pride Music Starts Playing* |
+| **drip [member]** | Gottem |
