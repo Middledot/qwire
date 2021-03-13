@@ -39,8 +39,8 @@ These are for helping moderate on your server.
 | **emojis** | None | None | Get list of all server emojis. |
 | **avatar [member]** | av | None | Get the avatar of a member. |
 | **serverinfo** | None | None | Get information on the settings of the server. |
-| **kick \<member> [reason]** | None | Kick Members | Kick a member. The reason will be sent to the kicked member and appear in Audit Logs. |
-| **ban \<member> [reason]** | None | Ban Members | Ban a member. The reason will be sent to the banned member and appear in Audit Logs. |
+| **kick \<member(s)> [reason]** | None | Kick Members | Kick a member or multiple members. The reason will be sent to the kicked member and appear in Audit Logs. |
+| **ban \<member(s)> [reason]** | None | Ban Members | Ban a member or multiple members. The reason will be sent to the banned member and appear in Audit Logs. |
 | **unban \<user> [reason]** | None | Ban Members | Unbans a member. You can use a name or ID of the person you want to unban. |
 | **purge \<number of messages>** | clear | Manage Messages | Deletes a certain number of messages in the chat. |
 | **slowmode [channel] \<time>** | smode, sm | Manage Channels | With the help with these keys: s, m, h, +, -, you can set the slowmode of a <br>channel. You can also use without the keys to set in seconds. |
