@@ -1,4 +1,7 @@
 # Music Commands
+`[]` are optional inputs<br>
+`<>` are required inputs<br>
+`<option1 | option2>` are options<br>
 Do not literally put the `[]` and `<>` characters.<br>
 Commands are not listed with the prefix.
 
