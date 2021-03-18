@@ -5,6 +5,7 @@
 Do not literally put the `[]` and `<>` characters.<br>
 Commands are named without the prefix
 
+## Join Settings
 These commands are for setting up and configuring welcome and leave messages on your server. Only admins can edit these settings.
 | Command | Description |
 | -------- | -------- |
@@ -15,7 +16,7 @@ These commands are for setting up and configuring welcome and leave messages on 
 | **joinsettings channel \<channel>** | Set the channel where join messages will be sent. |
 | **joinsettings message \<message>** | Set the join message to be sent.<br> * Insert `[user.mention]` to ping the new member.<br> * Insert `[user.name]` to just say the name of the new member.<br> * Insert `[user]` to say that name and the tag. (e.g. CoolGuy#2021)<br> * Insert `[count]` to give the current member count.<br> * Insert `[server]` to say the name of the server. |
 | **joinsettings test** | Sends a preview of the join message in the set channel. |
-# Leave Settings
+## Leave Settings
 | Command | Description |
 | -------- | -------- |
 | **leavesettings** | Shows all the options for the leave settings. |
