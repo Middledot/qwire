@@ -120,7 +120,7 @@ Semi-deprecated part of the bot. Undeveloped commands I will not show here and g
 
 ## Other Commands
 Some commands for non server-management stuff.
-### Fun Commands
+### Misc Commands
 | Command | Description |
 | ------- | ----------- |
 | **meme [subreddit]** | Shows a meme. You can specify a subreddit. |
@@ -129,6 +129,7 @@ Some commands for non server-management stuff.
 | **kill [user]** | Gives a random death message. |
 | **revive [user]** | Gives a random revival message. |
 | **you_there** | This command and the two above are, I think, the oldest commands on the bot so I'm just keeping them here. |
+| **snipe [channel]** | Fetch the most recently deleted message in a channel. |
 ### Image commands
 | Command | Description |
 | ------- | ----------- |
