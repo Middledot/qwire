@@ -15,3 +15,6 @@ These are commands to organize your todo list.
 | **todo edit <task number> <new task>** | Edit the task. |
 | **todo info <task number>** | Shows what task you have at at certain position of your list. |
 | **todo clear** | Completely empties your todo list. |
+| **todo create <list>** | Creates a new todo list. |
+| **todo delete <list>** | Deletes a todo list. |
+| **todo setlist <list>** | Set a certain list to be the current list. |
