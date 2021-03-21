@@ -2,6 +2,7 @@
 `[]` are optional inputs<br>
 `<>` are required inputs<br>
 `<option1 | option2>` are options<br>
+Do not literally put the `[]` and `<>` characters.<br>
 Commands are named without the prefix
 
 Some fun commands for non server-management stuff.
